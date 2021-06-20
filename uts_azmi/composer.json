@@ -1,0 +1,20 @@
+{
+    "name": "azmi-uinsu/uts",
+    "description": "UTS PBWL",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "azmi",
+            "email": "muhammdadzulfadli2402@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+    
+}
